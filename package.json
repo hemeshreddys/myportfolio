@@ -2,14 +2,18 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://hemeshreddys.github.io/myportfolio",
+  "homepage": "http://hemeshreddys.github.io/myportfolio",
   "dependencies": {
+    "add": "^2.0.6",
+    "gh-pages": "^2.0.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "yarn": "^1.13.0"
   },
   "scripts": {
-    "predeploy": "npm run build", "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
