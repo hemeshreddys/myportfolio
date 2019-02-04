@@ -293,7 +293,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li {
    position: relative;
-  	margin-bottom: 60px;
+  	margin-bottom: 50px;
   	background: #ccc;
   	height: 22px;
   	border-radius: 3px;
@@ -356,6 +356,11 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: reactjs 2s ease;
   	-webkit-animation: reactjs 2s ease;
 }
+.javascript {
+  	width: 60%;
+  	-moz-animation: reactjs 2s ease;
+  	-webkit-animation: reactjs 2s ease;
+}
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
@@ -385,6 +390,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
+@-moz-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
 
 @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
@@ -411,6 +420,10 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 80%;  }
 }
 @-webkit-keyframes nextjs {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes javascript {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }

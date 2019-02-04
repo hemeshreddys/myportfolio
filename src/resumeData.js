@@ -72,10 +72,7 @@ let resumeData = {
       "skillname":"Nextjs"
     },
     {
-      "skillname":"HTML5"
-    },
-    {
-      "skillname":"CSS3"
+      "skillname":"Javascript"
     }
   ],
   "portfolio":[
