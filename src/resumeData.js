@@ -27,7 +27,7 @@ let resumeData = {
   "website":"",
   "education":[
     {
-      "UniversityName":"Mumbai University",
+      "UniversityName":"VTU",
       "specialization":"Some specialization",
       "MonthOfPassing":"Jan",
       "YearOfPassing":"2018",
